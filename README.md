@@ -38,7 +38,7 @@
 Файл с данными можно найти [здесь](./data/churn.csv).
 
 ## Используемые зависимости
-* Python (3.9):
+* Python (3.7):
     * [numpy (1.21.6)](https://numpy.org)
     * [pandas (1.3.5)](https://pandas.pydata.org)
     * [plotly (5.18.0)](https://plotly.com)
